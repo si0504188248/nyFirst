@@ -5,6 +5,7 @@
  * @author (your name)
  * @version (a version number or a date)
  */
+//שירה יפרח
 public class עםהסלסית
 {
     public boolean difference (int [] a, int x)
